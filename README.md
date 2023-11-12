@@ -1,7 +1,9 @@
 # international_students_database 🌷
+🌷 Some screenshots:<br/>
+![Local Image](images/repo-database11.png)
+
 
 # 📗 Table of Contents
-
 
 - [international\_students\_database 🌷](#international_students_database-)
 - [📗 Table of Contents](#-table-of-contents)
