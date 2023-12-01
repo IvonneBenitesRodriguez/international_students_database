@@ -1,5 +1,5 @@
 # international_students_database 🌷
-🌷 Some screenshots:<br/>
+🌷 Screenshot<br/>
 ![Local Image](images/repo-database11.png)
 
 
@@ -7,7 +7,7 @@
 
 - [international\_students\_database 🌷](#international_students_database-)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[international\_students\_database\] ](#-international_students_database-)
+- [\[international\_students\_database\] ](#international_students_database--1)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [🌸🌷 Key Features ](#-key-features-)
@@ -23,7 +23,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [international_students_database] <a name="about-project"></a>
+# [international_students_database] <a name="about-project"></a>
 *International Students Database* is a relational database which helps us to keep records of international students that have studied and lived in Peru.
 This database helps us to list all students and their courses taken, host_universities, age, travel_Cusco, name, etc.
 We have identified the students who did not study spanish and who attend Pacifico university.
