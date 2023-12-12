@@ -1,7 +1,7 @@
 -- inserting values to our table created
 INSERT INTO students (name,nationality,age,room_price)
 VALUES('Robert', 'British',20, 1200),
-('Leroy', 'Dutch', 24, 800),
+('Leroy', 'london', 24, 800),
 ('Joel', 'Dutch', 20, 800),
 ('Rafael', 'French', 21, 1000),
 ('Luis', 'Peruvian', 19, 1000),
